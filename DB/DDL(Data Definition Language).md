@@ -1,0 +1,5 @@
+- Data 조작 가능
+- 테이블의 레코드를 CRUD
+- DB 변경 -> alter
+- DB 삭제 -> drop **가능하면 하지 말자!**
+- DB 사용 -> use

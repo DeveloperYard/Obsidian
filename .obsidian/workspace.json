@@ -1,0 +1,199 @@
+{
+  "main": {
+    "id": "9e6f7584119f5de4",
+    "type": "split",
+    "children": [
+      {
+        "id": "be0fb0549ab5e345",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "447d77dfb1037ab2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DB/INSERT.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "12eeadca66dcb17e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DB/TRANSACTION.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ab0939e590b076b7",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.12"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2b0252a55a73b84e",
+    "type": "split",
+    "children": [
+      {
+        "id": "21f90b00050ad279",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "93e54c3614271f00",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0685be344e679be0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7519bd3cd4ee8f95",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "31e070039069a261",
+    "type": "split",
+    "children": [
+      {
+        "id": "67aea1431a3d4e6d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0e0a8a32fe8d776f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "DB/TRANSACTION.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f73a1af3f78b84fb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "DB/TRANSACTION.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "67858e8eacd3297d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a5b95b12a6e8919b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "DB/TRANSACTION.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "ab0939e590b076b7",
+  "lastOpenFiles": [
+    "DB/JDBC.md",
+    "DB/TRANSACTION.md",
+    "DB/INSERT.md",
+    "DB/DML(Data Manipulation Language).md",
+    "DB/SQL(Structured Query Language).md",
+    "DB/Database.md",
+    "DB/DELETE.md",
+    "INSERT QUERY.md",
+    "DB/UPDATE.md",
+    "Untitled.md",
+    "Untitled",
+    "DB/SELECT.md",
+    "DB/Function.md",
+    "Pasted image 20230913095939.png",
+    "Pasted image 20230913095636.png",
+    "DB/Pasted image 20230912092341.png",
+    "SET.md",
+    "Pasted image 20230912150803.png",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "DB/DDL(Data Definition Language).md",
+    "DB/Pasted image 20230912090726.png",
+    "DB/RDBMS.md",
+    "DB"
+  ]
+}
