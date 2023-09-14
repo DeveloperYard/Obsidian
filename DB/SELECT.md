@@ -161,7 +161,7 @@ order by 1 desc;
 
 
 
-### cf ) ==null은 equal 비교로 볼 수 없다!== isnull() 등 함수를 사용해야 함!
+### cf ) ==null은 equal 비교로 볼 수 없다!== isnull() 등 함수를 사용해야 함!==
 
-### cf) null에 not을 붙이면 null이 나옴, NULL에 ==True나 false를 and, or하면 모두 결과는 NULL이 나옴==
+### cf) ==null에 not을 붙이면 null이 나옴, NULL에 ==True나 false를 and, or하면 모두 결과는 NULL이 나옴==
 
